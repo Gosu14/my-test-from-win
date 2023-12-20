@@ -1,0 +1,14 @@
+{
+    "version": "1",
+    "branches": [
+        "*"
+    ],
+    "applications": [
+        {
+            "name": "My trustless app test",
+            "slug": "my-test-from-win",
+            "version": "0.0.1",
+            "rootDir": "/apps/my-test-from-win"
+        }
+    ]
+}
